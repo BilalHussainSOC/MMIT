@@ -1,0 +1,58 @@
+.bg_img {
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(35, 43, 56, 0.9)),
+    url(../../../Image/cryptobg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.crypto_card_img img {
+  width: 100%;
+  height: auto;
+}
+.crypto_text {
+  margin-top: -20px;
+}
+.crypto_text p {
+  color: white;
+  margin-top: 12px;
+}
+.crypto_ui li {
+  color: white;
+}
+.chart_img img {
+  width: 100%;
+  height: auto;
+}
+.publiv_sale_card {
+  background-color: rgb(54, 54, 54);
+  border-radius: 10px;
+}
+.public_sale_main {
+  justify-content: center;
+  gap: 30px;
+  padding-top: 20px;
+}
+.public_sale_child {
+  background-color: rgb(255, 184, 0);
+  border-radius: 10px;
+}
+.public_sale_child p {
+  color: black;
+  text-align: center;
+  padding-top: 8px;
+}
+.total_supply {
+  background-color: rgb(255, 0, 0);
+  border-radius: 15px;
+
+}
+.total_supply p {
+  text-align: center;
+  color: white;
+  padding-top: 8px;
+}
+@media(max-width:414px){
+  .chart_img img{
+    margin-bottom: 20px;
+    margin-top: -30px;
+  }
+}

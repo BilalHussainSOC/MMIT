@@ -1,0 +1,34 @@
+.avialble_main {
+  justify-content: center;
+  gap: 30px;
+}
+
+.avialble_main1 {
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+.avialable_text {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.avialable_p p {
+  margin: 15px;
+}
+.avialable_text_comming {
+  background-color: rgb(54, 54, 54);
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.avialable_text_comming p {
+  margin: 15px;
+  color: white;
+}
+::-webkit-input-placeholder{
+    color: black;
+    font-size: 24px;
+    padding-left: 10px;
+}

@@ -1,0 +1,19 @@
+.footer_main{
+    justify-content: center;
+    padding-top: 30px;
+}
+.footer_text h3{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer_logo img{
+    width: 125%;
+    height: auto;
+    margin-left: -28%;
+}
+@media(max-width:414px){
+    #footer_our_links{
+        margin-top: 25px;
+        margin-bottom: -25px;
+    }
+}
